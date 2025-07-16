@@ -5,7 +5,7 @@ This project is dedicated to providing an accessible, modern, and inclusive web 
 
 ---
 
-## Table of Contents
+## 📖 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -18,14 +18,14 @@ This project is dedicated to providing an accessible, modern, and inclusive web 
 
 ---
 
-## Project Overview
+## 🌟 Project Overview
 
 The Pride Lifestyle Homes Website serves as the official online presence for Pride Lifestyle Homes.  
 It showcases property listings, company values, and resources aimed at the LGBTQ+ community, ensuring accessibility and engagement for all visitors.
 
 ---
 
-## Features
+## 💡 Features
 
 - Responsive layout across devices
 - Modern, clean UI/UX
@@ -37,7 +37,7 @@ It showcases property listings, company values, and resources aimed at the LGBTQ
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **HTML** (72.9%)
 - **CSS** (21.3%)
@@ -46,7 +46,7 @@ It showcases property listings, company values, and resources aimed at the LGBTQ
 
 ---
 
-## Folder Structure
+## 🗂️ Folder Structure
 
 Below is a typical folder structure for this repository:
 
@@ -76,7 +76,7 @@ Pride-Lifestyle-Homes-Website/
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -95,7 +95,7 @@ Pride-Lifestyle-Homes-Website/
 
 ---
 
-## Contributing
+## 🙌 Contributing
 
 We welcome contributions to enhance the website!  
 To contribute:
@@ -109,13 +109,13 @@ Please follow standard HTML/CSS/JS best practices and respect the inclusive miss
 
 ---
 
-## License
+## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
+## 📧 Contact
 
 For queries, suggestions, or feedback, please open an issue or contact [fullmoonhq](https://github.com/fullmoonhq).
 
